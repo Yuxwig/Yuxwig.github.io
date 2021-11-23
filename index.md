@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Welcome to Xinyu Pages
+尽自己的全力，求最好的结果，行动成就梦想，奋斗成就人生。
 
-You can use the [editor on GitHub](https://github.com/Yuxwig/Yuxwig.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 姓名：
+          王欣宇
+### 学号：
+          2005010144
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```个人简介
 
-### Markdown
+# 姓名：王欣宇
+## 性别：女
+### 出生年月：2002年05月03日
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-民族：汉族
+-籍贯：山西
+-政治面貌：共青团团员
+-专业：视觉传达设计
+-邮编：750000
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+视觉传达:报刊环境视觉设计杂志、招贴海报及其他印刷宣传物的设计，还有电影、电视、电子广告牌等传播媒体
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yuxwig/Yuxwig.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 技能
+         1.日语，口语良好，能翻译简单的日语文献
+         2.古筝，有很好的的协调能力，做事有条不紊
+         3.设计，有开放的创意思维和抓住潮流的敏捷洞察力
+         4.熟练运用计算机office，ps等软件
+         5.有良好的的资料写作能力和数据处理能力
+         
+### 兴趣爱好
+         绘画  语言  读书  旅游
+         
+### 教育背景
+          2008年9月~2014年7月           小学
+          2014年9月~2017年7月           初中
+          2017年9月~2020年7月           高中
+          2020年9月~至今                大学
+          
+### 主修课程
+         计算机辅助设计及应用   中国民间美术欣赏  文字与排版   引用写作   大学英语
+         
+### 自我评价
+  我对待学习认真负责，善于沟通、协调有较强的组织本事与团队精神；活泼开朗、乐观上进、有爱心并善于施教并行；上进心强、勤于学习能不断提高自身的本事与综合素质。在未来的学习中，我将以充沛的精力，刻苦钻研的精神来努力学习，稳定地提高自我的本事。有高度的职责感和敬业精神，待人真诚、诚实守信、团结协作意识强，能够吃苦耐劳，勇于挑战新事物，具有必须的开拓创新本事，“踏实做事，诚实做人”是我为人处世的原则。
+         
